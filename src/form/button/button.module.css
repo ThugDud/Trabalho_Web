@@ -1,0 +1,15 @@
+.neymar{
+    background-color: #007bff;
+    height: 80px;
+    width: 200px;
+    font-size: 30px;
+    border-radius: 15%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 10px 20px 0px rgb(74, 74, 74);
+    margin-left: 90vh;
+    margin-bottom: 50px;
+}
+
+.neymar:hover {
+    background-color: #0056b3;
+}
